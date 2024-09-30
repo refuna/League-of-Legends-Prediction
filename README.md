@@ -1,4 +1,4 @@
-# League of Legends Match Analysis
+# League of Legends Match Prediction
 
 ## Overview
 League of Legends (LoL) is a multiplayer online competitive game developed by Riot Games. In the game, players control heroes, each with a unique set of abilities. The objective is for teams of five players to battle against each other in order to destroy the opposing team's base crystal. The crystals are protected by defense towers, which must be destroyed before reaching the crystals.
